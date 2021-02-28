@@ -24,7 +24,7 @@ About the authors xxv
     3D Solving inequations 83
     3E Using graphs to solve equations and inequations 88
     3F Regions in the coordinate plane 95
-    3G Review of translations and refl ections 101
+    3G Review of translations and reflections 101
     3H Dilations 105
     3I Combinations of transformations 112
     3J Trigonometric graphs 118
@@ -34,7 +34,7 @@ About the authors xxv
     4B Stationary points and turning points 136
     4C Some less familiar curves 142
     4D Second and higher derivatives 148
-    4E Concavity and points of infl ection 150
+    4E Concavity and points of inflection 150
     4F Systematic curve sketching with the derivative 157
     4G Global maximum and minimum 162
     4H Applications of maximisation and minimisation 165
@@ -42,11 +42,11 @@ About the authors xxv
     4J Primitive functions 176
     Chapter 4 Review 182
 5 Integration 186
-    5A Areas and the defi nite integral 187
+    5A Areas and the definite integral 187
     5B The fundamental theorem of calculus 197
-    5C The defi nite integral and its properties 205
+    5C The definite integral and its properties 205
     5D Proving the fundamental theorem 214
-    5E The indefi nite integral 221
+    5E The indefinite integral 221
     5F Finding areas by integration 228
     5G Areas of compound regions 237
     5H The trapezoidal rule 244
@@ -109,7 +109,7 @@ About the authors xxv
     13A Differential equations 555
     13B Slope fields 566
     13C Separable differentiable equations 579
-    13D y ' = g(y ) and the logistic equation 586
+    13D y' = g(y) and the logistic equation 586
     13E Applications of differential equations 597
     Chapter 13 Review 606
 14 Series and finance 611
